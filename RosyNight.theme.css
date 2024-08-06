@@ -1,0 +1,29 @@
+/**
+  * @name RosyNight
+  * @author DevEvil
+  * @version RN.1
+  * @description A sleek and elegant theme blending deep blacks with soft rosy hues for a stunning night-time aesthetic.
+  * @authorId 468132563714703390
+  * @authorLink https://devevil.com
+  * @website https://devevil.com
+  * @donate https://oxapay.com/donate/76037572
+  * @invite jsQ9UP7kCA
+*/
+
+@import url('https://devevil99.github.io/devevil/BetterDiscordAddons/Theme/RosyNight/RosyNight.theme.css');
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css);
+
+:root {
+  --rosynight-app-bg: #fc8686;
+  --rosynight-bg: #181818;
+  --rosynight-bg2: #212121;
+  --rosynight-main: #fc8686;
+  --rosynight-main2: #f3aeae;
+  --rosynight-message-color: #f3aeae;
+  --watermark-filter-invert: 0%;
+  --watermark-filter-sepia: 50%;
+  --watermark-filter-saturate: 3000%;
+  --watermark-filter-hue-rotate: 210deg;
+  --watermark-filter-brightness: 30%;
+  --watermark-filter-contrast: 200%;
+}
