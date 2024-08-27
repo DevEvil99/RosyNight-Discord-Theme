@@ -13,7 +13,7 @@
 - **Colors**
 
 # Credit
-- Setting Icons: mwittrien
+- Setting Icons: DevilBro
 
 # My Other Themes
 - **[Dark+](https://betterdiscord.app/theme/Dark+)**
