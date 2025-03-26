@@ -20,10 +20,10 @@
   --rosynight-main: #fc8686;
   --rosynight-main2: #f3aeae;
   --rosynight-message-color: #f3aeae;
-  --watermark-filter-invert: 0%;
-  --watermark-filter-sepia: 50%;
-  --watermark-filter-saturate: 3000%;
-  --watermark-filter-hue-rotate: 210deg;
-  --watermark-filter-brightness: 30%;
-  --watermark-filter-contrast: 200%;
+  --watermark-filter-invert: 78%;
+  --watermark-filter-sepia: 46%;
+  --watermark-filter-saturate: 536%;
+  --watermark-filter-hue-rotate: 310deg;
+  --watermark-filter-brightness: 150%;
+  --watermark-filter-contrast: 88%;  
 }
