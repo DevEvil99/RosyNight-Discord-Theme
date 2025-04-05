@@ -6,7 +6,8 @@
 </div>
 <br>
 
-![rosynight](https://github.com/user-attachments/assets/3d0502cc-38aa-44fd-8c90-f786cec90c77)
+![rosynight](https://github.com/user-attachments/assets/3c6ed880-5f36-4d25-9b8e-2129145ac674)
+
 
 
 # User customization
@@ -15,11 +16,12 @@
 # Credit
 - Setting Icons: DevilBro
 
-# My Other Themes
+# All of my themes
 - **[Dark+](https://betterdiscord.app/theme/Dark+)**
 - **[Ocean](https://betterdiscord.app/theme/Ocean)**
 - **[Neptune](https://betterdiscord.app/theme/Neptune)**
 - **[Azurite](https://betterdiscord.app/theme/Azurite)**
+- **[RosyNight](https://betterdiscord.app/theme/RosyNight)**
 
 # Links
 **[Download From BetterDiscord](https://betterdiscord.app/theme/RosyNight)** <br>
